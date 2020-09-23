@@ -1,0 +1,8 @@
+# build
+obj_dir/
+
+# linting
+.clangd/
+.svlint.toml
+.svls.toml
+compile_commands.json
